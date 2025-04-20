@@ -3,7 +3,7 @@
     "Author": "Kliff!!",
     "Name": "Shanbells",
     "InternalName": "Shanbells",
-    "AssemblyVersion": "1.0.0",
+    "AssemblyVersion": "1.1.0",
     "Description": "Replaces the word 'Gil' with 'Shanbells' in the Currency window and Tooltips.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kliff-k/ShanbellsPlugin",
@@ -16,8 +16,8 @@
     "IsTestingExclusive": "False",
     "LastUpdated": 1745111528,
     "DownloadCount": 1,
-    "DownloadLinkInstall": "https://github.com/kliff-k/ShanbellsPlugin/releases/download/1.0.0/Shanbells.zip",
-    "DownloadLinkTesting": "https://github.com/kliff-k/ShanbellsPlugin/releases/download/1.0.0/Shanbells.zip",
-    "DownloadLinkUpdate": "https://github.com/kliff-k/ShanbellsPlugin/releases/download/1.0.0/Shanbells.zip"
+    "DownloadLinkInstall": "https://github.com/kliff-k/ShanbellsPlugin/releases/download/1.1.0/Shanbells.zip",
+    "DownloadLinkTesting": "https://github.com/kliff-k/ShanbellsPlugin/releases/download/1.1.0/Shanbells.zip",
+    "DownloadLinkUpdate": "https://github.com/kliff-k/ShanbellsPlugin/releases/download/1.1.0/Shanbells.zip"
   }
 ]
