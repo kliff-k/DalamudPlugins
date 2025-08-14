@@ -6,7 +6,7 @@
     "AssemblyVersion": "1.2.0",
     "Description": "Replaces the word 'Gil' with 'Shanbells' (or something else entirely!) in the Currency window and Tooltips.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/kliff-k/ShanbellsPlugin",
+    "RepoUrl": "https://github.com/kliff-k/Shanbells",
     "DalamudApiLevel": 13,
     "Punchline": "Bringing Shananigans to Eorzea",
     "AcceptsFeedback": true,
@@ -16,8 +16,8 @@
     "IsTestingExclusive": "False",
     "LastUpdated": 1755124527,
     "DownloadCount": 1,
-    "DownloadLinkInstall": "https://github.com/kliff-k/ShanbellsPlugin/releases/download/1.2.0/Shanbells.zip",
-    "DownloadLinkTesting": "https://github.com/kliff-k/ShanbellsPlugin/releases/download/1.2.0/Shanbells.zip",
-    "DownloadLinkUpdate": "https://github.com/kliff-k/ShanbellsPlugin/releases/download/1.2.0/Shanbells.zip"
+    "DownloadLinkInstall": "https://github.com/kliff-k/Shanbells/releases/download/1.2.0/Shanbells.zip",
+    "DownloadLinkTesting": "https://github.com/kliff-k/Shanbells/releases/download/1.2.0/Shanbells.zip",
+    "DownloadLinkUpdate": "https://github.com/kliff-k/Shanbells/releases/download/1.2.0/Shanbells.zip"
   }
 ]
